@@ -121,4 +121,4 @@ Two arguments are required:
   2. master.json URL
 
 Example:
-  node vimeo-downloader.js VIDEO NAME https://URL/master.json`;
+  node index.js VIDEO_NAME https://URL/master.json`;
